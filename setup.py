@@ -19,7 +19,7 @@ setup(
     url="https://github.com/yourusername/pioud_process",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: CEA CNRS Inria Logiciel Libre License, version 2.1 (CeCILL-2.1)",
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.6",
