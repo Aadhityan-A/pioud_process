@@ -8,6 +8,9 @@ A Python package for generating input and processing output of PIOUD (A Path Int
   - Generating input files for PIOUD from and .cif crystal structure files.
   - Creating submission scripts for HPC clusters (PBS/SLURM).
   - Visualizing and setting up simulation parameters.
+
+![pioud_process GUI](docs/images/gui_screenshot.png)
+
 - **Analysis Tools**:
   - Time averaging of properties.
   - Radial Distribution Function (RDF) analysis.
@@ -17,7 +20,15 @@ A Python package for generating input and processing output of PIOUD (A Path Int
 
 ## Installation
 
-To install the package, clone the repository and install it using pip:
+### From PyPI (Recommended)
+
+```bash
+pip install pioud-process
+```
+
+### From Source
+
+To install the package from source, clone the repository and install it using pip:
 
 ```bash
 git clone https://github.com/Aadhityan-A/pioud_process.git
